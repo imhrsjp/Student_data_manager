@@ -1,0 +1,75 @@
+#bd{
+    background-image: url("images/bd.jpeg");
+    image-resolution: 1;
+}
+#registerdiv{
+    background-color: green;
+    height: 380px;
+    width: 400px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    position: relative;
+    margin-top: 50px;
+    margin-left: 400px;
+}
+#heading{
+    text-align: center;
+    color: burlywood;
+}
+#para{
+    text-align: center;
+    color: yellowgreen;
+}
+#inputf{
+    text-align: center;
+    border-left-width: 2px solid black;
+    block-size: 30px;
+    position: relative;
+    margin-left: 50px;
+    width: 300px;
+}
+#btns{
+    position: relative;
+    margin-left: 170px;
+}
+#apage{
+    position: relative;
+    height: 200px;
+    width: 300px;
+    margin-top: 50px;
+    margin-left: 85px;
+}
+#txt{
+    text-align: center;
+}
+#deldiv{
+    background-color: green;
+    height: 220px;
+    width: 400px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    position: relative;
+    margin-top: 150px;
+    margin-left: 400px;
+}
+#btndelete{
+    position: relative;
+    margin-left: 170px;
+    margin-top: 30px;
+}
+#fetchbtn{
+    background-color: green;
+    height: 20px;
+    width: 98px;
+    position: relative;
+    margin-top: 50px;
+    margin-left: 555px;
+}
+#hpagebtn{
+    
+    background-color: green;
+    height: 25px;
+    width: 100px;
+    margin-top: 100px;
+    margin-left:560px;
+}
